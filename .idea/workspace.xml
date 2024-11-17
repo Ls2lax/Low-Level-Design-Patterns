@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4072caa1-1bb4-4355-9859-62938375797c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Low-Level_Design.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/AVIPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/AdvanceFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/AdvanceMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/DefaultMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/CloudSourceStorage/CloudSourceFromAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/CloudSourceStorage/CloudSourceFromDataLake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/CloudSourceStorage/CloudSourceFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/IngestToDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/OnCloudStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/OnPremiseStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/OnStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/PremiseSourceStorage/PremiseSourceFromAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/PremiseSourceStorage/PremiseSourceFromDataLake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/PremiseSourceStorage/PremiseSourceFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/FactoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIFramework/StorageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/Caramel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/CoffeeHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/IngredientDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade/DriverCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade/HardwareChecks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade/LaptopOnSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade/MotherBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade/OSCheckOnBoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade/RAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade/SoftwareCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/FactoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/FactoryOfSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/IngestToDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/IngestionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/SourceDataFromAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/SourceDataFromDataLake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/SourceDataFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="4072caa1-1bb4-4355-9859-62938375797c" name="Changes" comment="Uploaded Low level design patterns" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -193,6 +145,30 @@
       <option name="presentableId" value="Default" />
       <updated>1731839340331</updated>
     </task>
+    <task id="LOCAL-00001" summary="Uploaded Low level design patterns">
+      <option name="closed" value="true" />
+      <created>1731862257746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731862257746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uploaded Low level design patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded Low level design patterns" />
   </component>
 </project>
