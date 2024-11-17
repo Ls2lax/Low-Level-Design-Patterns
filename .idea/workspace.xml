@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4072caa1-1bb4-4355-9859-62938375797c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Low-Level_Design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/AVIPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/AdvanceFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/AdvanceMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/DefaultMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/CloudSourceStorage/CloudSourceFromAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/CloudSourceStorage/CloudSourceFromDataLake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/CloudSourceStorage/CloudSourceFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/IngestToDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/OnCloudStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/OnPremiseStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/OnStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/PremiseSourceStorage/PremiseSourceFromAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/PremiseSourceStorage/PremiseSourceFromDataLake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/AbstractFactory/PremiseSourceStorage/PremiseSourceFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIFramework/StorageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/Caramel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/CoffeeHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/IngredientDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/DriverCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/HardwareChecks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/LaptopOnSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/MotherBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/OSCheckOnBoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/RAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/SoftwareCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/FactoryOfSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/IngestToDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/IngestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/SourceDataFromAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/SourceDataFromDataLake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/SourceDataFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oyQSlfNZpMwwpFVvtn0tPIFEet" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Courses/GeeksForGeeks/Low-Level-Design-Patterns&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Courses\GeeksForGeeks\Low-Level_Design\src\DIFramework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MediaPlayerMain">
+    <configuration name="CoffeeHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decorator.CoffeeHouse" />
+      <module name="Low-Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DIFramework.FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DIFramework.FactoryMain" />
+      <module name="Low-Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DIFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.FactoryMain" />
+      <module name="Low-Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laptop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Facade.Laptop" />
+      <module name="Low-Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaPlayerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter.MediaPlayerMain" />
+      <module name="Low-Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Low-Level_Design" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Low-Level_Design" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MediaPlayerMain" />
+        <item itemvalue="Application.Laptop" />
+        <item itemvalue="Application.CoffeeHouse" />
+        <item itemvalue="Application.DIFramework.FactoryMain" />
+        <item itemvalue="Application.FactoryMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4072caa1-1bb4-4355-9859-62938375797c" name="Changes" comment="" />
+      <created>1731839340331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731839340331</updated>
+    </task>
+    <servers />
+  </component>
+</project>
